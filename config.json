@@ -1,8 +1,3 @@
-
 {
-    "maintenance": false,
-    "credits": 100,
-    "version": 5,
-    "api_enabled": true,
-    "test":
+  "test": "https://4b3d-48-211-210-113.ngrok-free.app"
 }
