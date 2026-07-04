@@ -4,9 +4,10 @@
     "2bm-2": "",
     "2bm-3": "",
     "2bm-4": "",
-    "2bm-5": "",
-    "private-model-1": "https://virtually-commentary-creating-refused.trycloudflare.com",
-    "private-model-2": "https://mass-unexpected-guest-another.trycloudflare.com"
+    "2bm-5": ""
   },
-  "private-model": {}
+  "private-model": {
+    "private-model-1": "",
+    "private-model-2": ""
+  }
 }
