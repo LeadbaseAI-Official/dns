@@ -1,11 +1,4 @@
 {
-  "4bm": {
-    "4bm-1": "",
-    "4bm-2": "",
-    "4bm-3": "",
-    "4bm-4": "",
-    "4bm-5": ""
-  },
   "2bm": {
     "2bm-1": "",
     "2bm-2": "",
@@ -15,9 +8,6 @@
   },
   "private-model": {
     "private-model-1": "",
-    "private-model-2": "",
-    "private-model-3": "",
-    "private-model-4": "",
-    "private-model-5": ""
+    "private-model-2": ""
   }
 }
