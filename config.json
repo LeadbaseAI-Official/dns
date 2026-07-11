@@ -1,4 +1,11 @@
 {
+  "0bm": {
+    "0bm-1": "",
+    "0bm-2": "",
+    "0bm-3": "",
+    "0bm-4": "",
+    "0bm-5": ""
+  },
   "2bm": {
     "2bm-1": "",
     "2bm-2": "",
@@ -6,8 +13,8 @@
     "2bm-4": "",
     "2bm-5": ""
   },
-  "private-model": {
-    "private-model-1": "https://fold-learning-referral-over.trycloudflare.com",
-    "private-model-2": ""
+  "private_model": {
+    "private_model-1": "",
+    "private_model-2": ""
   }
 }
