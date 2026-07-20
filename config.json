@@ -21,7 +21,7 @@
     "standby-server": ""
   },
   "redis-worker": {
-    "redis-worker-1": "https://msie-experiments-moore-costumes.trycloudflare.com"
+    "redis-worker-1": "https://alarm-suits-restoration-tournament.trycloudflare.com"
   },
   "kv-worker": {
     "kv-worker-1": "https://streams-consultancy-different-stations.trycloudflare.com"
