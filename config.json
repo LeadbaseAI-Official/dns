@@ -20,6 +20,6 @@
     "standby-server-1": ""
   },
   "redis-worker": {
-    "redis-worker-1": ""
+    "redis-worker-1": "https://test-redis-tunnel.trycloudflare.com"
   }
 }
