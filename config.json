@@ -1,10 +1,10 @@
 {
   "white": {
-    "white-1": "https://sequence-labour-continuously-oscar.trycloudflare.com",
-    "white-2": "https://verse-marketing-ships-geographic.trycloudflare.com",
-    "white-3": "https://sussex-needle-revisions-journey.trycloudflare.com",
-    "white-4": "https://merchants-andrew-tar-ball.trycloudflare.com",
-    "white-5": "https://naples-orchestra-tasks-unix.trycloudflare.com"
+    "white-1": "",
+    "white-2": "",
+    "white-3": "",
+    "white-4": "",
+    "white-5": ""
   },
   "0bm": {
     "0bm-1": "",
@@ -12,5 +12,14 @@
     "0bm-3": "",
     "0bm-4": "",
     "0bm-5": ""
+  },
+  "kv_worker": {
+    "kv_worker-1": ""
+  },
+  "standby-server": {
+    "standby-server-1": ""
+  },
+  "redis-worker": {
+    "redis-worker-1": ""
   }
 }
