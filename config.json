@@ -21,5 +21,5 @@
   },
   "redis-worker": {
     "redis-worker-1": ""
-  },
+  }
 }
