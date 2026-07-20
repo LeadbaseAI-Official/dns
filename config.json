@@ -21,7 +21,7 @@
     "standby-server": ""
   },
   "redis-worker": {
-    "redis-worker-1": "https://alarm-suits-restoration-tournament.trycloudflare.com"
+    "redis-worker-1": "https://abu-dvds-supplies-ericsson.trycloudflare.com"
   },
   "kv-worker": {
     "kv-worker-1": "https://oliver-proxy-damaged-terrain.trycloudflare.com"
