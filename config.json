@@ -7,7 +7,7 @@
     "white-5": ""
   },
   "0bm": {
-    "0bm-1": "https://test-0bm-tunnel.trycloudflare.com",
+    "0bm-1": "",
     "0bm-2": "",
     "0bm-3": "",
     "0bm-4": "",
@@ -18,12 +18,12 @@
   },
   "standby-server": {
     "standby-server-1": "",
-    "standby-server": "https://test-standby-tunnel.trycloudflare.com"
+    "standby-server": ""
   },
   "redis-worker": {
-    "redis-worker-1": "https://test-redis-tunnel.trycloudflare.com"
+    "redis-worker-1": ""
   },
   "kv-worker": {
-    "kv-worker-1": "https://test-kv-tunnel.trycloudflare.com"
+    "kv-worker-1": ""
   }
 }
