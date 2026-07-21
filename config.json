@@ -21,7 +21,7 @@
     "standby-server": ""
   },
   "redis-worker": {
-    "active": "https://fingers-teacher-communities-trip.trycloudflare.com",
+    "active": "https://developmental-referenced-practical-discuss.trycloudflare.com",
     "redis-worker-1": "https://developmental-referenced-practical-discuss.trycloudflare.com",
     "redis-replica-1": ""
   },
