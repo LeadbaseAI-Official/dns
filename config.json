@@ -21,7 +21,7 @@
     "standby-server": ""
   },
   "redis-worker": {
-    "active": "",
+    "active": "https://hundred-thereafter-college-domains.trycloudflare.com",
     "redis-worker-1": "https://hundred-thereafter-college-domains.trycloudflare.com",
     "redis-replica-1": ""
   },
