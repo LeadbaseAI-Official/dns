@@ -22,7 +22,7 @@
   },
   "redis-worker": {
     "active": "",
-    "redis-worker-1": "",
+    "redis-worker-1": "https://hundred-thereafter-college-domains.trycloudflare.com",
     "redis-replica-1": ""
   },
   "kv-worker": {
