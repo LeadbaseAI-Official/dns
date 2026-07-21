@@ -22,7 +22,7 @@
   },
   "redis-worker": {
     "active": "https://fingers-teacher-communities-trip.trycloudflare.com",
-    "redis-worker-1": "https://fingers-teacher-communities-trip.trycloudflare.com",
+    "redis-worker-1": "https://developmental-referenced-practical-discuss.trycloudflare.com",
     "redis-replica-1": ""
   },
   "kv-worker": {
