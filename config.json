@@ -1,13 +1,13 @@
 {
   "white": {
-    "white-1": "https://summer-ali-several-minds.trycloudflare.com",
-    "white-2": "https://clock-expected-digital-demographic.trycloudflare.com",
-    "white-3": "https://themselves-actually-secondary-useful.trycloudflare.com",
-    "white-4": "https://eastern-kills-accuracy-efforts.trycloudflare.com",
-    "white-5": "https://burst-minnesota-virtue-northeast.trycloudflare.com"
+    "white-1": "",
+    "white-2": "",
+    "white-3": "",
+    "white-4": "",
+    "white-5": ""
   },
   "0bm": {
-    "0bm-1": "https://progress-islamic-handbags-proportion.trycloudflare.com",
+    "0bm-1": "",
     "0bm-2": "",
     "0bm-3": "",
     "0bm-4": "",
@@ -21,7 +21,9 @@
     "standby-server": ""
   },
   "redis-worker": {
-    "redis-worker-1": "https://investigated-prepaid-lanes-amazing.trycloudflare.com"
+    "active": "",
+    "redis-worker-1": "",
+    "redis-replica-1": ""
   },
   "kv-worker": {
     "kv-worker-1": "https://cherry-using-thesis-restricted.trycloudflare.com"
