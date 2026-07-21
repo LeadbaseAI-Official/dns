@@ -21,7 +21,7 @@
     "standby-server": ""
   },
   "redis-worker": {
-    "active": "https://developmental-referenced-practical-discuss.trycloudflare.com",
+    "active": "https://actors-vocal-immediately-dive.trycloudflare.com",
     "redis-worker-1": "https://actors-vocal-immediately-dive.trycloudflare.com",
     "redis-replica-1": ""
   },
