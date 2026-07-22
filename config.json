@@ -21,7 +21,7 @@
     "standby-server": ""
   },
   "redis-worker": {
-    "active": "https://rebates-insertion-selling-bizrate.trycloudflare.com",
+    "active": "https://bodies-focusing-dated-lexmark.trycloudflare.com",
     "redis-worker-1": "https://bodies-focusing-dated-lexmark.trycloudflare.com",
     "redis-replica-1": ""
   },
