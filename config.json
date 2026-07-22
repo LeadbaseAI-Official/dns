@@ -26,6 +26,6 @@
     "redis-replica-1": ""
   },
   "kv-worker": {
-    "kv-worker-1": "https://member-doll-alone-wise.trycloudflare.com"
+    "kv-worker-1": "https://doctors-halloween-lay-marker.trycloudflare.com"
   }
 }
