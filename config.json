@@ -18,7 +18,7 @@
     "standby-server": ""
   },
   "redis-worker": {
-    "active": "https://cliff-directly-examines-permalink.trycloudflare.com",
+    "active": "https://email-various-rewards-cms.trycloudflare.com",
     "redis-worker-1": "https://cliff-directly-examines-permalink.trycloudflare.com",
     "redis-replica-1": "https://email-various-rewards-cms.trycloudflare.com"
   },
