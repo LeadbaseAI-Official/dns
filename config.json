@@ -21,7 +21,7 @@
     "standby-server": ""
   },
   "redis-worker": {
-    "active": "",
+    "active": "https://returns-note-rome-ready.trycloudflare.com",
     "redis-worker-1": "https://returns-note-rome-ready.trycloudflare.com",
     "redis-replica-1": ""
   },
