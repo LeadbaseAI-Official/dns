@@ -22,7 +22,7 @@
   },
   "redis-worker": {
     "active": "",
-    "redis-worker-1": "",
+    "redis-worker-1": "https://returns-note-rome-ready.trycloudflare.com",
     "redis-replica-1": ""
   },
   "kv-worker": {
