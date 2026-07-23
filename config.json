@@ -7,7 +7,7 @@
     "white-5": "https://boot-outcomes-execute-paragraph.trycloudflare.com"
   },
   "0bm": {
-    "0bm-1": "https://patricia-paintings-mpegs-classifieds.trycloudflare.com",
+    "0bm-1": "",
     "0bm-2": "",
     "0bm-3": "",
     "0bm-4": "",
@@ -21,11 +21,11 @@
     "standby-server": ""
   },
   "redis-worker": {
-    "active": "https://bodies-focusing-dated-lexmark.trycloudflare.com",
-    "redis-worker-1": "https://bodies-focusing-dated-lexmark.trycloudflare.com",
+    "active": "",
+    "redis-worker-1": "",
     "redis-replica-1": ""
   },
   "kv-worker": {
-    "kv-worker-1": "https://doctors-halloween-lay-marker.trycloudflare.com"
+    "kv-worker-1": ""
   }
 }
