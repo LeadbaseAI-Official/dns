@@ -20,7 +20,7 @@
   "redis-worker": {
     "active": "https://sleep-sampling-sufficient-chamber.trycloudflare.com",
     "redis-worker-1": "https://sleep-sampling-sufficient-chamber.trycloudflare.com",
-    "redis-replica-1": "https://email-various-rewards-cms.trycloudflare.com"
+    "redis-replica-1": "https://dry-den-julia-reprint.trycloudflare.com"
   },
   "kv-worker": {
     "kv-worker-1": "https://presented-extreme-club-hear.trycloudflare.com"
