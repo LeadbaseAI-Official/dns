@@ -18,7 +18,7 @@
     "standby-server": ""
   },
   "redis-worker": {
-    "active": "https://sleep-sampling-sufficient-chamber.trycloudflare.com",
+    "active": "https://dry-den-julia-reprint.trycloudflare.com",
     "redis-worker-1": "https://sleep-sampling-sufficient-chamber.trycloudflare.com",
     "redis-replica-1": "https://dry-den-julia-reprint.trycloudflare.com"
   },
