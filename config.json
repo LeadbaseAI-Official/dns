@@ -18,7 +18,7 @@
     "standby-server": ""
   },
   "redis-worker": {
-    "active": "https://shipments-packs-donors-marking.trycloudflare.com",
+    "active": "https://appears-prices-hands-knock.trycloudflare.com",
     "redis-worker-1": "https://appears-prices-hands-knock.trycloudflare.com",
     "redis-replica-1": "https://shipments-packs-donors-marking.trycloudflare.com"
   },
