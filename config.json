@@ -20,7 +20,7 @@
   "redis-worker": {
     "active": "https://september-associates-signature-disciplinary.trycloudflare.com",
     "redis-worker-1": "https://september-associates-signature-disciplinary.trycloudflare.com",
-    "redis-replica-1": "https://dry-den-julia-reprint.trycloudflare.com"
+    "redis-replica-1": "https://shipments-packs-donors-marking.trycloudflare.com"
   },
   "kv-worker": {
     "kv-worker-1": "https://wall-basketball-copied-characteristic.trycloudflare.com"
