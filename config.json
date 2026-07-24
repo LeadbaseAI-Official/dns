@@ -18,7 +18,7 @@
     "standby-server": ""
   },
   "redis-worker": {
-    "active": "https://appears-prices-hands-knock.trycloudflare.com",
+    "active": "https://peripheral-vpn-trailer-safely.trycloudflare.com",
     "redis-worker-1": "https://appears-prices-hands-knock.trycloudflare.com",
     "redis-replica-1": "https://peripheral-vpn-trailer-safely.trycloudflare.com"
   },
