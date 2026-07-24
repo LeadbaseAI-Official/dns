@@ -19,7 +19,7 @@
   },
   "redis-worker": {
     "active": "https://kinda-troubleshooting-riverside-optimal.trycloudflare.com",
-    "redis-worker-1": "https://kinda-troubleshooting-riverside-optimal.trycloudflare.com",
+    "redis-worker-1": "https://supplies-webcast-monthly-praise.trycloudflare.com",
     "redis-replica-1": "https://peripheral-vpn-trailer-safely.trycloudflare.com"
   },
   "kv-worker": {
