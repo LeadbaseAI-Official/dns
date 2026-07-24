@@ -18,7 +18,7 @@
     "standby-server": ""
   },
   "redis-worker": {
-    "active": "https://peripheral-vpn-trailer-safely.trycloudflare.com",
+    "active": "https://kinda-troubleshooting-riverside-optimal.trycloudflare.com",
     "redis-worker-1": "https://kinda-troubleshooting-riverside-optimal.trycloudflare.com",
     "redis-replica-1": "https://peripheral-vpn-trailer-safely.trycloudflare.com"
   },
