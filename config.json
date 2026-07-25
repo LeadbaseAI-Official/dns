@@ -18,7 +18,7 @@
     "standby-server": ""
   },
   "redis-worker": {
-    "active": "https://trucks-broader-scanning-compared.trycloudflare.com",
+    "active": "https://send-cardiovascular-eau-race.trycloudflare.com",
     "redis-worker-1": "https://trucks-broader-scanning-compared.trycloudflare.com",
     "redis-replica-1": "https://send-cardiovascular-eau-race.trycloudflare.com"
   },
