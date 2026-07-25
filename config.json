@@ -19,7 +19,7 @@
   },
   "redis-worker": {
     "active": "https://tours-planning-glucose-becoming.trycloudflare.com",
-    "redis-worker-1": "https://trucks-broader-scanning-compared.trycloudflare.com",
+    "redis-worker-1": "https://controversial-friday-terms-resistant.trycloudflare.com",
     "redis-replica-1": "https://tours-planning-glucose-becoming.trycloudflare.com"
   },
   "kv-worker": {
