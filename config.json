@@ -20,7 +20,7 @@
   "redis-worker": {
     "active": "https://throwing-visiting-forward-phenomenon.trycloudflare.com",
     "redis-worker-1": "https://weekend-diary-alliance-glasgow.trycloudflare.com",
-    "redis-replica-1": "https://throwing-visiting-forward-phenomenon.trycloudflare.com"
+    "redis-replica-1": "https://diagnosis-proposals-cole-great.trycloudflare.com"
   },
   "kv-worker": {
     "kv-worker-1": "https://testing-edgar-shoe-farm.trycloudflare.com"
