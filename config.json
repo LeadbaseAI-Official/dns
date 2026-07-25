@@ -19,7 +19,7 @@
   },
   "redis-worker": {
     "active": "https://handle-blogs-letters-gbp.trycloudflare.com",
-    "redis-worker-1": "https://atmosphere-berry-voltage-exhibits.trycloudflare.com",
+    "redis-worker-1": "https://attorneys-york-coming-stakeholders.trycloudflare.com",
     "redis-replica-1": "https://handle-blogs-letters-gbp.trycloudflare.com"
   },
   "kv-worker": {
