@@ -20,7 +20,7 @@
   "redis-worker": {
     "active": "https://weekend-diary-alliance-glasgow.trycloudflare.com",
     "redis-worker-1": "https://weekend-diary-alliance-glasgow.trycloudflare.com",
-    "redis-replica-1": "https://tours-planning-glucose-becoming.trycloudflare.com"
+    "redis-replica-1": "https://throwing-visiting-forward-phenomenon.trycloudflare.com"
   },
   "kv-worker": {
     "kv-worker-1": "https://admit-theory-russia-comic.trycloudflare.com"
