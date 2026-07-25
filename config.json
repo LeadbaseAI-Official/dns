@@ -18,7 +18,7 @@
     "standby-server": ""
   },
   "redis-worker": {
-    "active": "https://under-eyes-given-fin.trycloudflare.com",
+    "active": "https://handle-blogs-letters-gbp.trycloudflare.com",
     "redis-worker-1": "https://atmosphere-berry-voltage-exhibits.trycloudflare.com",
     "redis-replica-1": "https://handle-blogs-letters-gbp.trycloudflare.com"
   },
