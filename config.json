@@ -18,7 +18,7 @@
     "standby-server": ""
   },
   "redis-worker": {
-    "active": "https://tours-planning-glucose-becoming.trycloudflare.com",
+    "active": "https://controversial-friday-terms-resistant.trycloudflare.com",
     "redis-worker-1": "https://controversial-friday-terms-resistant.trycloudflare.com",
     "redis-replica-1": "https://tours-planning-glucose-becoming.trycloudflare.com"
   },
