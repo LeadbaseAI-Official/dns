@@ -19,7 +19,7 @@
   },
   "redis-worker": {
     "active": "https://controversial-friday-terms-resistant.trycloudflare.com",
-    "redis-worker-1": "https://controversial-friday-terms-resistant.trycloudflare.com",
+    "redis-worker-1": "https://weekend-diary-alliance-glasgow.trycloudflare.com",
     "redis-replica-1": "https://tours-planning-glucose-becoming.trycloudflare.com"
   },
   "kv-worker": {
