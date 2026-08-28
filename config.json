@@ -18,6 +18,6 @@
     "standby-server": ""
   },
   "kv-worker": {
-    "kv-worker-1": ""
+    "kv-worker-1": "https://alexandria-know-ryan-johnny.trycloudflare.com"
   }
 }
